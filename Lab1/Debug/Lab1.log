@@ -1,0 +1,15 @@
+﻿  ModelTexture.cpp
+  MyShader.cpp
+  obj_loader.cpp
+f:\university\gsd year 4 trimester a\game programming 3\coursework\gp3 coursework kieranchiiosong\lab1\obj_loader.cpp(378): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ModelMesh.cpp
+f:\university\gsd year 4 trimester a\game programming 3\coursework\gp3 coursework kieranchiiosong\lab1\modelmesh.cpp(58): warning C4930: 'Sphere meshSphere(void)': prototyped function not called (was a variable definition intended?)
+  MyGame.cpp
+f:\university\gsd year 4 trimester a\game programming 3\coursework\gp3 coursework kieranchiiosong\lab1\mygame.cpp(200): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+  main.cpp
+  WindowDisplay.cpp
+  Audio.cpp
+  Generating Code...
+  stb_image.c
+  LINK : F:\University\GSD Year 4 Trimester A\Game Programming 3\Coursework\GP3 Coursework KieranChiIoSong\Debug\Lab1.exe not found or not built by the last incremental link; performing full link
+  Lab1.vcxproj -> F:\University\GSD Year 4 Trimester A\Game Programming 3\Coursework\GP3 Coursework KieranChiIoSong\Debug\Lab1.exe
